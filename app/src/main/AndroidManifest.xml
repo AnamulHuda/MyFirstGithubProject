@@ -27,17 +27,16 @@
         <activity android:name=".IntentNewPageWelcome" />
         <activity android:name=".Main6Activity" />
         <activity android:name=".OptionMenuIntegrate">
+
+        </activity>
+        <activity android:name=".BackPress"></activity>
+        <activity android:name=".OptionsMenuIntegrate2"></activity>
+        <activity android:name=".ConextMenu">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".BackPress">
-
-        </activity>
-        <activity android:name=".OptionsMenuIntegrate2">
-
         </activity>
     </application>
 
