@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"
+        app:showAsAction="always"
+        ></item>
+
+    <item
+        android:title="Yellow"
+        android:id="@+id/yellow"
+        ></item>
+
+    <item
+        android:title="Red"
+        android:id="@+id/red"
+        ></item>
+
+    <item
+        android:title="Black"
+        android:id="@+id/black"
+        ></item>
+
+    <item
+        android:title="Iron Man"
+        android:id="@+id/ironMan"
+        ></item>
+
+    <item
+        android:title="Captain America"
+        android:id="@+id/captainAmerica"
+        ></item>
+
+    <item
+        android:title="Thor"
+        android:id="@+id/thor"
+        ></item>
+
+    <item
+        android:title="Hulk"
+        android:id="@+id/hulk"
+        ></item>
+
+    <item
+        android:title="Black Widow"
+        android:id="@+id/blackWidow"
+        ></item>
+
+    <item
+        android:title="Hawkeye"
+        android:id="@+id/hawkeye"
+        ></item>
+
+
+
+</menu>
